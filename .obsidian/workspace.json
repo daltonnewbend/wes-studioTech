@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "d7ae86e449a52264",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbd57bdd88900c85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b03984c2d622c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Charlie Coffey/Norwegian American Church, Sheldahl, Iowa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norwegian American Church, Sheldahl, Iowa"
+            }
+          },
+          {
+            "id": "7548276bf45439f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Krista Narciso/Measure for Measure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Measure for Measure"
+            }
+          },
+          {
+            "id": "2cf85d9faf5eff0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Krista Narciso/Perennial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perennial"
+            }
+          },
+          {
+            "id": "06598692e7b3da5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Dalton Newbend/gay seggs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gay seggs"
+            }
+          },
+          {
+            "id": "a235f518630f5108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Ben Parker/Pontiac Grand Prix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pontiac Grand Prix"
+            }
+          },
+          {
+            "id": "34db04ccfb34e4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Ben Parker/Pontiac Grand Prix Registration at the DMV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pontiac Grand Prix Registration at the DMV"
+            }
+          },
+          {
+            "id": "d841bf797dd03b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Charlie Coffey/Norwegian American Church, Sheldahl, Iowa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norwegian American Church, Sheldahl, Iowa"
+            }
+          },
+          {
+            "id": "4d5b40a744cbaca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paperDayExhibition/worksSelected/Ben Parker/Pontiac Grand Prix Registration at the DMV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pontiac Grand Prix Registration at the DMV"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f90e04ac818a4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaafc6a9a815e5a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a9e452480dbf7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce465c7f611ada69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02c11d0b10dd56a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e4bd5b932203077",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f0992af983a2ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea7fd0222d0145f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Running Task List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Running Task List"
+            }
+          },
+          {
+            "id": "b60db3a68a0d836d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Running Task List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Running Task List"
+            }
+          },
+          {
+            "id": "144b2326960ec8ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4a4752e2603a9bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Running Task List.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Running Task List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c1a9e452480dbf7a",
+  "lastOpenFiles": [
+    "paperDayExhibition/worksSelected/Tammy Nguyen",
+    "paperDayExhibition/worksSelected/Ben Parker/Broken Barriers.md",
+    "paperDayExhibition/worksSelected/Ben Parker/Pontiac Grand Prix Registration at the DMV.md",
+    "paperDayExhibition/worksSelected/Aisha Odetunde/Displacement (colon) Dᴉsdlɐɔǝɯǝuʇ.md",
+    "paperDayExhibition/worksSelected/Chance Lockard/Well, well, well.md",
+    "paperDayExhibition/index.md",
+    "paperDayExhibition/worksSelected/Chance Lockard",
+    "paperDayExhibition/worksSelected/Dalton Newbend/cakes.md",
+    "paperDayExhibition/worksSelected/Charlie Coffey/Norwegian American Church, Sheldahl, Iowa.md",
+    "paperDayExhibition/worksSelected/Dalton Newbend/Untitled",
+    "paperDayExhibition/worksSelected/Charlie Coffey/Grain Elevator, Boone, Iowa.md",
+    "99.meta/artworks-template.md",
+    "paperDayExhibition/worksSelected/Krista Narciso/Certain.md",
+    "paperDayExhibition/worksSelected/Krista Narciso/Measure for Measure.md",
+    "paperDayExhibition/worksSelected/Krista Narciso/Perennial.md",
+    "paperDayExhibition/worksSelected/Krista Narciso/Paper Thread.md",
+    "Running Task List.md",
+    "description.md",
+    "_index.md",
+    "Key Contacts.md",
+    "training dates?.md",
+    "paperDayExhibition/worksSelected/Krista Narciso/Untitled.md",
+    "templates/artwork-template.md",
+    "paperDayExhibition/worksSelected/Aisha Odetunde",
+    "paperDayExhibition/worksSelected/Dalton Newbend/gay seggs.md",
+    "paperDayExhibition/worksSelected/Ben Parker",
+    "paperDayExhibition/worksSelected/Tammy Nguyen",
+    "paperDayExhibition/worksSelected/Dalton Newbend",
+    "Kate's Project.md",
+    "99.meta",
+    "paperDayExhibition/worksSelected/Charlie Coffey",
+    "paperDayExhibition/worksSelected/Krista Narciso",
+    "textilesHub/Potential Monitors.md",
+    "pocketLab/30 Sep 2025.md",
+    "signage/2x4s.md",
+    "signage"
+  ]
+}

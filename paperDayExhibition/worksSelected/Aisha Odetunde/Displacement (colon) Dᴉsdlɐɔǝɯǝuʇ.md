@@ -1,0 +1,7 @@
+---
+title: Displacement :Dᴉsdlɐɔǝɯǝuʇ
+artist: Aisha Odetunde
+date: "2025"
+material: Laser Cut Paper
+dimensions:
+---

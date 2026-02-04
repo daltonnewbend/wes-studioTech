@@ -1,0 +1,32 @@
+---
+title: shima-seiki-material-needs
+---
+- Driver kit i.e. wow stick?
+	- really tiny phillips head
+	- large flathead
+- mm allen wrench kit, especially 4mm
+- 3in metal scraper
+- pen light
+- neodymium magnets
+- neodymium hooks
+- 1ft level
+- --manual--
+- shima machine oil
+- floss threaders
+- needle nose pliers
+- nail polish, roy g. biv
+- label maker
+- knit labels for yarns
+- sharpie
+- microfibre cloths
+- stylus
+- tweezers
+- olfa knife
+- sewists tape
+- 90< ruler
+- reusable cones
+- feeler guage
+- open top bins
+- plastidip or silicon caps for tweezers
+- angled tweezers
+- small spring snips
