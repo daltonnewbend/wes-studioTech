@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.labs/textilesHub/_index.md",
+                "file": "99.meta/part-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "part-template"
             }
           }
         ]
@@ -166,16 +166,17 @@
   },
   "active": "820160dc8435dbb7",
   "lastOpenFiles": [
+    "01.labs/textilesHub/machineParts/select jack.md",
+    "99.meta/part-template.md",
+    "01.labs/textilesHub/_index.md",
     "01.labs/textilesHub/machineParts/slide needle.md",
     "01.labs/textilesHub/machineParts/needle jack.md",
     "01.labs/textilesHub/machineParts/sinker jack.md",
-    "select jack.md",
     "01.labs/textilesHub/machineParts/selector.md",
     "01.labs/textilesHub/machineParts/needle plate spacer.md",
     "01.labs/textilesHub/machineParts/sinker.md",
     "01.labs/textilesHub/machineParts/yarn guide.md",
     "01.labs/textilesHub/machineParts/slider.md",
-    "01.labs/textilesHub/_index.md",
     "01.labs/textilesHub/machineParts",
     "01.labs/textilesHub/Potential Monitors.md",
     "01.labs/textilesHub/shima-seiki-material-needs.md",
@@ -200,7 +201,6 @@
     "Untitled.base",
     "paperDayExhibition/worksSelected/Tammy Nguyen",
     "02.projects/paperDayExhibition/worksSelected/Ben Parker/Broken Barriers.md",
-    "02.projects/paperDayExhibition/worksSelected/Aisha Odetunde/Displacement (colon) Dᴉsdlɐɔǝɯǝuʇ.md",
-    "02.projects/paperDayExhibition/worksSelected/Chance Lockard/Well, well, well.md"
+    "02.projects/paperDayExhibition/worksSelected/Aisha Odetunde/Displacement (colon) Dᴉsdlɐɔǝɯǝuʇ.md"
   ]
 }
