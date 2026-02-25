@@ -7,3 +7,5 @@ Romy Zwerin, rzwerin@wesleyan.edu
 Luke Kim, lskim@wesleyan.edu
 
 Leo Ferry, lferry@wesleyan.edu
+
+Izzy Yanowitz, iyanowitz@wesleyan.edu, 416509
